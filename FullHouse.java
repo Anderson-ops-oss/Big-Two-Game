@@ -1,6 +1,6 @@
 /**
  * FullHouse is a subclass of Hand which is used to model a hand of full house in a Big Two card game.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen 
  */
 public class FullHouse extends Hand{
     /**
