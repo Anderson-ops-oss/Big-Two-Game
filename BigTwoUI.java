@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 /**
  * This class is used for modeling a user interface for the Big Two card game.
  * 
- * @author Kenneth Wong
+ * 
  */
 public class BigTwoUI {
 	private final static int MAX_CARD_NUM = 13; // max. no. of cards each player holds
