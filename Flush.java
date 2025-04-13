@@ -1,6 +1,6 @@
 /**
  * This class is used to model a Flush hand and check if the hand is a valid Flush hand.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen 
  */
 public class Flush extends Hand{
 
