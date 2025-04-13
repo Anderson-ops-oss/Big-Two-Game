@@ -6,7 +6,7 @@ import javax.swing.*;
 /**
  * The BigTwoGUI class implements the CardGameUI interface and provides a Graphical User Interface for the Big Two card game.
  * 
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen
  */
 public class BigTwoGUI implements CardGameUI{
 
