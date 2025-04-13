@@ -1,6 +1,6 @@
 /**
  * The BigTwoDeck class is a subclass of the Deck class, and is used to model a deck of cards used in a Big Two card game.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen 
  */
 public class BigTwoDeck extends Deck{
     
