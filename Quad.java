@@ -1,6 +1,6 @@
 /**
  * Quad is a subclass of Hand which is used to model a hand of quad in a Big Two card game, which consists of four cards with the same rank and one card of different rank.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen 
  */
 public class Quad extends Hand{
 
