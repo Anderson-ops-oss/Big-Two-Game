@@ -1,6 +1,6 @@
 /**
  * Single is a subclass of Hand which is used to model a hand of single in a Big Two card game.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen 
  */
 public class Single extends Hand{
 
