@@ -1,6 +1,6 @@
 /**
  * The BigTwoCard class is a subclass of the Card class, and is used to model a card used in a Big Two card game.
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen
  */
 public class BigTwoCard extends Card{
 
