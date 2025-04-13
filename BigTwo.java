@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 /**
  * This class is used for modeling a Big Two card game.
  * 
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen
  * 
  */
 public class BigTwo implements CardGame{
