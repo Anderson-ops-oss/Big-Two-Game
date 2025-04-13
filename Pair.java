@@ -1,6 +1,6 @@
 /**
  * The Pair class is a subclass of Hand which is used to model a hand of pair in a Big Two card game.
- * @author Cheng Chak Yuen 303606584
+ * @author Cheng Chak Yuen 
  */
 public class Pair extends Hand{
 
