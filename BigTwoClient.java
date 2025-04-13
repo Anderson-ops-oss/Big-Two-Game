@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * The BigTwoClient class is a subclass of the NetworkGame interface that implements the NetworkGame interface.
  * It is used to model a Big Two card game that can be played over the network with other players.
  * 
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen
  */
 public class BigTwoClient implements NetworkGame{
     private BigTwo game;
