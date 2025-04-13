@@ -15,7 +15,7 @@ import javax.swing.ScrollPaneConstants;
 /**
  * This class is used to model a card game server.
  * 
- * @author Kenneth Wong
+ * 
  *
  */
 public class CardGameServer {
