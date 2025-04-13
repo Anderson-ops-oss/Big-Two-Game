@@ -1,6 +1,6 @@
 /**
  * The Hand class is a subclass of CardList, and is used to model a hand of cards. 
- * @author Cheng Chak Yuen 3036065848
+ * @author Cheng Chak Yuen
  */
 public abstract class Hand extends CardList{
     private  CardGamePlayer player;
