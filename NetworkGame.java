@@ -1,6 +1,6 @@
 public interface NetworkGame {
 	/**
-	 * Returns the playerID (index) of the local player.
+	 * Returns the playerID (index) of the local player. 
 	 * 
 	 * @return the playerID (index) of the local player
 	 */
